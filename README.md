@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @priyanshuk7
--    I'm a third year student at IIT(ISM) Dhanbad, pursuing Bachelor of Technology in Chemical Engineering.
+- 📖 I'm a third year student at IIT(ISM) Dhanbad, pursuing Bachelor of Technology in Chemical Engineering.
 - 👀 I’m interested in app development and graphic designing.
 - 🌱 I’m currently learning about the apects of android development.
-- 💞️ I’m looking to collaborate on the projects which can bring great learning experiences and can help me upskill.
+- 🙌 I’m looking to collaborate on the projects which can bring great learning experiences and can help me upskill.
 - 📫 You can reach me by my email- priyanshu.katariya2003@gmail.com
--    Or you can contact me at - 7000442924
+- ☎️ Or you can contact me at - 7000442924
 
 <!---
 priyanshuk7/priyanshuk7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
