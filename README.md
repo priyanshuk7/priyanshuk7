@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyanshuk7
+- 👋 Hi, myself Priyanshu Katariya.
 - 📖 A prefinal year student at IIT Dhanbad.
 - 👀 Interested in mobile app development and graphic designing.
 - 🌱 Currently learning about the apects of android development.
