@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a pasionate mobile application developer with 
 <h1 align="left">✨About me </h1>
 
 - 🌟 **Expertise**: Full-stack mobile app development with experience in Android Studio, Flutter and Jetpack Compose.
-- 💻 **Languages & Tools**: C, C++, Java, Kotlin, Dart, XML, SQL, Python.
+- 💻 **Languages & Tools**: C, C++, Java, Kotlin, Dart, XML, SQL, Python, Firebase.
 - 🧠 **Problem Solving:** A great grip on DSA and solved over 1000 problems across platforms like LeetCode, CodeForces and CodeChef.
 - 📫 How to reach me **priyanshu.katariya2003@gmail.com**
 
