@@ -1,6 +1,6 @@
 <h1 align="left">Hi there, I'm Priyanshu Katariya 👋</h1>
 
-Welcome to my GitHub profile! I'm a pasionate mobile application developer with a strong command of various tech stacks and modern tools like flutter and jetpack compose. I specialize in building efficient, scalable applications and solving complex problems with innovative solutions.
+Welcome to my GitHub profile! I'm a passionate mobile application developer with a strong command of various tech stacks and modern tools like flutter and jetpack compose. I specialize in building efficient, scalable applications and solving complex problems with innovative solutions.
 
 <h1 align="left">✨About me </h1>
 
